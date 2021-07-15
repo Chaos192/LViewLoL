@@ -8,6 +8,7 @@ public:
 	Offsets();
 
 	static int GameTime;
+	static int GameVersion;
 
 	static int ObjIndex;
 	static int ObjTeam;
